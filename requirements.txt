@@ -1,3 +1,4 @@
 pafy
 youtube-dl==2020.12.2
 python-vlc
+youtube-video-play-pause-bot
